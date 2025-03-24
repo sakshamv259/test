@@ -1,0 +1,22 @@
+{
+  "name": "volunteer-connect-spa",
+  "version": "1.0.0",
+  "description": "Volunteer Connect Single-Page Application with TypeScript",
+  "main": "dist/app.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "chart.js": "^3.0.0",
+    "jquery": "^3.6.0",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.0",
+    "lite-server": "^2.6.1",
+    "@types/jquery": "^3.5.14",
+    "@types/chart.js": "^2.9.32",
+    "@types/moment": "^2.13.0"
+  }
+}
